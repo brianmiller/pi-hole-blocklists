@@ -1,1 +1,1 @@
-# pi-hole-blocklists
+# pi-hole-blocklists--keep the kids safe
