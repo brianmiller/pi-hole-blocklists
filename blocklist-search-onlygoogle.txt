@@ -339,6 +339,7 @@
 0.0.0.0 google.co.kr
 0.0.0.0 google.co.ls
 0.0.0.0 google.co.ma
+0.0.0.0 google.co.in
 0.0.0.0 google.com.af
 0.0.0.0 google.com.ag
 0.0.0.0 google.com.ai
